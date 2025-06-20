@@ -5,6 +5,8 @@ class Program
 {
     public static void Main(string[] args)
     {
+        CultureInfo.CurrentCulture = new CultureInfo("en-ZA");
+
         Console.WriteLine("__________ A Simple Compound Interest Calculator __________\n");
 
         Console.Write("Enter the initial principal amount: ");
