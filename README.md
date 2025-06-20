@@ -9,3 +9,12 @@ Applies tax deductions on interest earnings
    Total contributions
    Total interest earned after tax
    Inflation-adjusted balance
+
+Output
+____________ Final Report ___________
+
+Total Years: 20
+Total Contributions: R0.00
+Total Interest Earned after tax: R153,665.37
+Final Balance: R163,665.37
+Inflation-Adjusted Balance: R110,142.10
