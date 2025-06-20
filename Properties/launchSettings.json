@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Compound interest": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
